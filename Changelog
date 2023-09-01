@@ -1,0 +1,376 @@
+### Change log
+
+2023-08-31 Bumped to version v1.0.105
+- Updated apis for maas/vod/verender
+
+2023-08-24 Bumped to version v1.0.104
+- Updated apis for maas
+
+2023-08-17 Bumped to version v1.0.103
+- Updated apis for maas
+
+2023-08-10 Bumped to version v1.0.102
+- Updated apis for imagex/maas/vod/security
+
+2023-08-03 Bumped to version v1.0.101
+- Updated apis for verender/vod
+
+2023-07-27 Bumped to version v1.0.100
+- Updated apis for vod/billing/maas
+
+2023-07-21 Bumped to version v1.0.99
+- Updated apis for vod/maas/visual
+
+2023-07-13 Bumped to version v1.0.98
+- Updated apis for bioos/maas/visual
+- Added service dts
+
+2023-07-06 Bumped to version v1.0.97
+- Updated apis for maas
+
+2023-06-29 Bumped to version v1.0.96
+- Updated apis for cdn/vod
+- Added service maas
+
+2023-06-20 Bumped to version v1.0.95
+- Updated apis for security
+
+2023-06-16 Bumped to version v1.0.94
+- Updated apis for imagex/vod/security/emr
+
+2023-06-01 Bumped to version v1.0.93
+- Updated apis for imagex/tls
+
+2023-05-25 Bumped to version v1.0.92
+- Updated apis for vms
+
+2023-05-18 Bumped to version v1.0.91
+- Updated apis for sms/vod/security
+- Urgent notice and update: Due to privacy data security requirements, the Volc SMS SDK will no longer support SG overseas access points. If you used volc-sdk to implement SG overseas endpoints before, please modify your code to avoid future build failures. If you require overseas access to SMS, please use BytePlus services.
+
+2023-05-17 Bumped to version v1.0.90
+- Removed special logic from setup.py
+
+2023-05-11 Bumped to version v1.0.89
+- Updated apis for imagex
+- Removed lz4a from setup.py
+
+2023-05-05 Bumped to version v1.0.88
+- Updated apis for vod/imagex
+
+2023-04-28 Bumped to version v1.0.87
+- Updated apis for tls/imagex/bioos
+
+2023-04-20 Bumped to version v1.0.86
+- Added service veen
+- Updated apis for tls
+
+2023-04-13 Bumped to version v1.0.85
+- Updated apis for cdn
+
+2023-04-06 Bumped to version v1.0.84
+- Updated apis for bioos/vod/iamgx/tls
+
+2023-03-30 Bumped to version v1.0.83
+- removed lz4a from requirements
+
+2023-03-30 Bumped to version v1.0.82
+- Updated apis for vod/imagex/sms
+
+2023-03-23 Bumped to version v1.0.81
+- Fixed bug for vod
+
+2023-03-17 Bumped to version v1.0.80
+- Fixed bug for live
+
+2023-03-16 Bumped to version v1.0.79
+- Updated apis for live/imagex
+
+2023-03-09 Bumped to version v1.0.78
+- Updated apis for vod
+
+2023-03-02 Bumped to version v1.0.77
+- Updated apis for visual/imagex/sms/live
+
+2023-02-16 Bumped to version v1.0.76
+- Updated apis for vod/imagex/sms
+
+2023-02-16 Bumped to version v1.0.75
+- Updated apis for bioos/live
+
+2023-02-09 Bumped to version v1.0.74
+- Updated apis for visual/security
+
+2023-02-02 Bumped to version v1.0.73
+- Updated apis for sms/vms/security
+
+2023-01-19 Bumped to version v1.0.72
+- Updated apis for live
+- Added bio service
+
+2023-01-13 Bumped to version v1.0.71
+- Updated apis for secetnumber/vms/vod
+
+2023-01-05 Bumped to version v1.0.70
+- Updated apis for vod/imagex/security
+
+2022-12-29 Bumped to version v1.0.69
+- Updated apis for vod/visual/dcdn
+
+2022-12-22 Bumped to version v1.0.68
+- Updated apis for imagex
+
+2022-12-15 Bumped to version v1.0.67
+- Updated apis for iam/vod/cdn
+
+2022-12-08 Bumped to version v1.0.66
+- Updated apis for sms
+- Updated config for rds/imp
+
+2022-12-05 Bumped to version v1.0.65
+- Updated apis for imagex
+
+2022-11-24 Bumped to version v1.0.64
+- Updated apis for sms/cdn
+
+2022-11-18 Bumped to version v1.0.63
+- Added sts credential support
+- Updated apis for visual
+- Fixed dependency for windows
+
+2022-11-10 Bumped to version v1.0.62
+- Added live service
+- Updated apis for security
+
+2022-10-27 Bumped to version v1.0.61
+- Added emr service
+- Updated example for rtc
+- Updated apis for vod
+
+2022-10-13 Bumped to version v1.0.60
+- Updated apis for vod
+
+2022-09-22 Bumped to version v1.0.59
+- Updated setup
+
+2022-09-15 Bumped to version v1.0.58
+- Added tls service
+- Updated apis for vod
+
+2022-09-09 Bumped to version v1.0.57
+- Added apis for billing
+
+2022-09-01 Bumped to version v1.0.56
+- Added apis for visual
+
+2022-08-25 Bumped to version v1.0.55
+- Added apis for live
+
+2022-08-18 Bumped to version v1.0.54
+- Added apis for cdn
+
+2022-08-11 Bumped to version v1.0.53
+- Updated apis for vod
+
+2022-08-05 Bumped to version v1.0.52
+- Removed pycrypto dependency
+
+2022-08-04 Bumped to version v1.0.51
+- Added apis for sts\cdn
+
+2022-07-28 Bumped to version v1.0.50
+- Upgraded apis for vod
+
+2022-07-07 Bumped to version v1.0.49
+- Added apis for live\rtc
+
+2022-06-30 Bumped to version v1.0.48
+- Upgraded example for rtc
+- Upgraded service verender
+
+2022-06-23 Bumped to version v1.0.47
+- Added apis for imagex\vod
+
+2022-06-17 Bumped to version v1.0.46
+- Added apis for imagex\vod
+
+2022-06-09 Bumped to version v1.0.45
+- Fixed apis for cdn
+- Added api for security
+
+2022-05-20 Bumped to version v1.0.44
+- Added verender service
+
+2022-05-12 Bumped to version v1.0.43
+- Added apis for Vod\security
+
+2022-04-28 Bumped to version v1.0.42
+- Added apis for live
+
+2022-04-22 Bumped to version v1.0.41
+- Added service live
+
+2022-04-14 Bumped to version v1.0.40
+- Refactored apis for cr
+- Added apis for vod\cdn\visual
+
+2022-03-31 Bumped to version v1.0.39
+- Added notify client
+- Added api for cr
+- Upgraded api for vod
+
+2022-03-18 Bumped to version v1.0.38
+- Added some apis of space\callback\cdn for vod
+
+2022-03-08 Bumped to version v1.0.37
+- fixed configparser import
+
+2022-03-03 Bumped to version v1.0.36
+- 新增视觉-ocr能力为印章识别、pdf文字识别、高速公路过路费票据识别、商标证识别、软件著作权证书识别、化妆品生产许可证识别，已测试完成
+- Add Video-Classification for VOD
+- Fix BaseService for Python2.7
+- Implement related example for cdn apis
+- Add new cdn apis
+
+
+2022-02-24 Bumped to version v1.0.35
+- Added cr and cp client
+- Fixed mobile status v2
+
+2022-02-10 Bumped to version v1.0.34
+- Added 号码核验二期需求
+- Added content security services
+- Supported ini config
+
+2022-01-21 Bumped to version v1.0.33
+- Added vod start workflow
+- Added 闲时转码
+
+
+2022-01-20 Bumped to version v1.0.32
+- Visual add new api 
+
+2022-01-14 Bumped to version v1.0.31
+- Fixed for python2.7
+
+
+2022-01-13 Bumped to version v1.0.30
+- Add sdk for 8 apis
+
+2022-01-04 Bumped to version v1.0.29
+- Vod python2.7 support
+
+2021-12-30 Bumped to version v1.0.28
+- Refactored signing method
+
+2021-12-16 Bumped to version v1.0.27
+- element_verify
+- Dev rds postgresql
+- Implemented CDN apis
+
+2021-10-29 Bumped to version v1.0.26
+- added new service mobile status 
+- added account risk
+
+2021-10-27 Bumped to version v1.0.25
+- Vod修正大文件上传配置
+- Vod添加HDR支持
+
+2021-09-29 Bumped to version v1.0.24
+- Fixed large file upload
+
+2021-09-16 Bumped to version v1.0.23
+- Add rtc sdk
+- Add private drm for vod
+
+2021-08-24 Bumped to version v1.0.22
+- ocr sdk
+- removed not used example files
+
+2021-08-20 Bumped to version v1.0.21
+livesaas: add async sdk
+
+2021-08-12 Bumped to version v1.0.20
+- added more livesaas api
+    - 新增3个直播间管理类接口
+    - 新增8个直播控制类接口
+    - 新增3个回放管理类接口
+    - 新增2个评论类接口
+    - 新增1个客户端SDK类接口
+
+2021-08-05 Bumped to version v1.0.19
+- Added sms
+- Added ocr
+- Added nlp
+
+2021-07-14 Bumped to version v1.0.18
+- Fixed cr32
+
+2021-07-14 Bumped to version v1.0.17
+- Revert fixed base json for dict type
+
+2021-07-08 Bumped to version v1.0.16
+- Fixed base json for dict type
+
+2021-06-03 Bumped to version v1.0.15
+- Hotfix for vod service 
+
+2021-06-02 Bumped to version v1.0.14
+- Add get media list
+- Support material upload
+
+2021-05-24 Bumped to version v1.0.13
+- Add essay_auto_grade api
+
+2021-05-19 Bumped to version v1.0.12
+- Add hls drm utils for vod
+- Add a new product 'game_protect' api to get risk result on gaming scenes.
+- Add retry after http error
+- Support upload material
+
+2021-04-20 Bumped to version v1.0.11
+- Added store keys res.
+- Added pcdn and barrageMask into sdk.
+
+2021-04-08 Bumped to version v1.0.10
+- Added nlp sdk.
+
+2021-04-08 Bumped to version v1.0.9
+- Added more sms support.
+
+2021-03-24 Bumped to version v1.0.8
+- Added async and risk result.
+- Added more abblocker support.
+- Added media delete api.
+
+2021-02-04 Bumped to version v1.0.7
+- Add cloud-edit sdk.
+
+2021-01-29 Bumped to version v1.0.6
+- Fix vod init bug.
+
+2021-01-28 Bumped to version v1.0.5
+- Added sts2_ak support
+- Added common imagex api
+- Added more vod api
+
+2021-01-20 Bumped to version v1.0.4
+- Add new visual apis.
+- Add adblock sdk.
+
+2020-12-30 Bumped to version v1.0.3
+- ImageX:add delete api.
+
+2020-12-22 Bumped to version v1.0.2
+- Add vod sdk.
+- Add ImageX sdk.
+
+2020-11-22 Bumped to version v1.0.1
+- Update README.md.
+- Update dependency library,Compatible with python2 and python3.
+
+2020-11-09 Bumped to version v1.0.0
+- Add iam sdk.
+- Add visual sdk.
+- Add visual demo.
+- Add version in header.
